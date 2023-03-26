@@ -1,0 +1,1 @@
+U zadatku su korišteni: PHP, JavaScript, Jquery, MySql (Wampserver),HTML,CSS.
